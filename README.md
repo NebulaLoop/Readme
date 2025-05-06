@@ -1,4 +1,4 @@
-<h1 align="center">Artizno in your area!!</h1>
+<h1 align="center">SHINJI in your area!!</h1>
 
 ![GitHub Artizno](https://img.shields.io/github/followers/nattaponra?label=follow&style=social) 
  
